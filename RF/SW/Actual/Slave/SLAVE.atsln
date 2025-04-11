@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "SLAVE", "SLAVE\SLAVE.cppproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		[Enrackable] [1] Debug|ARM = [Enrackable] [1] Debug|ARM
+		[Enrackable] [1] Release|ARM = [Enrackable] [1] Release|ARM
+		[Enrackable] [2] Debug|ARM = [Enrackable] [2] Debug|ARM
+		[Enrackable] [2] Release|ARM = [Enrackable] [2] Release|ARM
+		[Enrackable] [3] Debug|ARM = [Enrackable] [3] Debug|ARM
+		[Enrackable] [3] Release|ARM = [Enrackable] [3] Release|ARM
+		[Enrackable] [4A] Debug|ARM = [Enrackable] [4A] Debug|ARM
+		[Enrackable] [4A] Release|ARM = [Enrackable] [4A] Release|ARM
+		[Enrackable] [4B] Debug|ARM = [Enrackable] [4B] Debug|ARM
+		[Enrackable] [4B] Release|ARM = [Enrackable] [4B] Release|ARM
+		[Enrackable] [5A] Debug|ARM = [Enrackable] [5A] Debug|ARM
+		[Enrackable] [5A] Release|ARM = [Enrackable] [5A] Release|ARM
+		[Enrackable] [5B] Debug|ARM = [Enrackable] [5B] Debug|ARM
+		[Enrackable] [5B] Release|ARM = [Enrackable] [5B] Release|ARM
+		[Maleta] [1] Debug|ARM = [Maleta] [1] Debug|ARM
+		[Maleta] [1] Release|ARM = [Maleta] [1] Release|ARM
+		[Maleta] [2] Debug|ARM = [Maleta] [2] Debug|ARM
+		[Maleta] [2] Release|ARM = [Maleta] [2] Release|ARM
+		[Maleta] [3] Debug|ARM = [Maleta] [3] Debug|ARM
+		[Maleta] [3] Release|ARM = [Maleta] [3] Release|ARM
+		[Maleta] [4A] Debug|ARM = [Maleta] [4A] Debug|ARM
+		[Maleta] [4A] Release|ARM = [Maleta] [4A] Release|ARM
+		[Maleta] [4B] Debug|ARM = [Maleta] [4B] Debug|ARM
+		[Maleta] [4B] Release|ARM = [Maleta] [4B] Release|ARM
+		[Maleta] [5A] Debug|ARM = [Maleta] [5A] Debug|ARM
+		[Maleta] [5A] Release|ARM = [Maleta] [5A] Release|ARM
+		[Maleta] [5B] Debug|ARM = [Maleta] [5B] Debug|ARM
+		[Maleta] [5B] Release|ARM = [Maleta] [5B] Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [1] Debug|ARM.ActiveCfg = [Enrackable] [1] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [1] Debug|ARM.Build.0 = [Enrackable] [1] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [1] Release|ARM.ActiveCfg = [Enrackable] [1] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [1] Release|ARM.Build.0 = [Enrackable] [1] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [2] Debug|ARM.ActiveCfg = [Enrackable] [2] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [2] Debug|ARM.Build.0 = [Enrackable] [2] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [2] Release|ARM.ActiveCfg = [Enrackable] [2] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [2] Release|ARM.Build.0 = [Enrackable] [2] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [3] Debug|ARM.ActiveCfg = [Enrackable] [3] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [3] Debug|ARM.Build.0 = [Enrackable] [3] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [3] Release|ARM.ActiveCfg = [Enrackable] [3] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [3] Release|ARM.Build.0 = [Enrackable] [3] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4A] Debug|ARM.ActiveCfg = [Enrackable] [4A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4A] Debug|ARM.Build.0 = [Enrackable] [4A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4A] Release|ARM.ActiveCfg = [Enrackable] [4A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4A] Release|ARM.Build.0 = [Enrackable] [4A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4B] Debug|ARM.ActiveCfg = [Enrackable] [4B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4B] Debug|ARM.Build.0 = [Enrackable] [4B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4B] Release|ARM.ActiveCfg = [Enrackable] [4B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [4B] Release|ARM.Build.0 = [Enrackable] [4B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5A] Debug|ARM.ActiveCfg = [Enrackable] [5A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5A] Debug|ARM.Build.0 = [Enrackable] [5A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5A] Release|ARM.ActiveCfg = [Enrackable] [5A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5A] Release|ARM.Build.0 = [Enrackable] [5A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5B] Debug|ARM.ActiveCfg = [Enrackable] [5B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5B] Debug|ARM.Build.0 = [Enrackable] [5B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5B] Release|ARM.ActiveCfg = [Enrackable] [5B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Enrackable] [5B] Release|ARM.Build.0 = [Enrackable] [5B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [1] Debug|ARM.ActiveCfg = [Maleta] [1] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [1] Debug|ARM.Build.0 = [Maleta] [1] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [1] Release|ARM.ActiveCfg = [Maleta] [1] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [1] Release|ARM.Build.0 = [Maleta] [1] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [2] Debug|ARM.ActiveCfg = [Maleta] [2] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [2] Debug|ARM.Build.0 = [Maleta] [2] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [2] Release|ARM.ActiveCfg = [Maleta] [2] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [2] Release|ARM.Build.0 = [Maleta] [2] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [3] Debug|ARM.ActiveCfg = [Maleta] [3] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [3] Debug|ARM.Build.0 = [Maleta] [3] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [3] Release|ARM.ActiveCfg = [Maleta] [3] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [3] Release|ARM.Build.0 = [Maleta] [3] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4A] Debug|ARM.ActiveCfg = [Maleta] [4A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4A] Debug|ARM.Build.0 = [Maleta] [4A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4A] Release|ARM.ActiveCfg = [Maleta] [4A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4A] Release|ARM.Build.0 = [Maleta] [4A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4B] Debug|ARM.ActiveCfg = [Maleta] [4B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4B] Debug|ARM.Build.0 = [Maleta] [4B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4B] Release|ARM.ActiveCfg = [Maleta] [4B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [4B] Release|ARM.Build.0 = [Maleta] [4B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5A] Debug|ARM.ActiveCfg = [Maleta] [5A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5A] Debug|ARM.Build.0 = [Maleta] [5A] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5A] Release|ARM.ActiveCfg = [Maleta] [5A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5A] Release|ARM.Build.0 = [Maleta] [5A] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5B] Debug|ARM.ActiveCfg = [Maleta] [5B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5B] Debug|ARM.Build.0 = [Maleta] [5B] Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5B] Release|ARM.ActiveCfg = [Maleta] [5B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5B] Release|ARM.Build.0 = [Maleta] [5B] Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.[Maleta] [5B] Release|ARM.Deploy.0 = [Maleta] [5B] Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
