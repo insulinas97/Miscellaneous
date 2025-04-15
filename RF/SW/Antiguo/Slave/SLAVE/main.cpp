@@ -273,6 +273,7 @@ void ADF4350_synthetizer(float fref, float freq, uint8_t power, uint32_t LE) // 
 	// Loss PLL lock REGISTER 5 (Yo)
 	DPIN->PIO_CODR |= LE;
 	delay16b(ADFDEL);   // 20 ns minimum (Yo)
+	//[AR] El pin LD no se utiliza, por lo que se configura a 0.
 	SPI_transfer(0x00); // RESERVADO
 	SPI_transfer(0x98); // LD (Lock Detect) pin mode (1 0) -> Lock Detect (Yo) - Low Lock detect pin en low + reservado
 	SPI_transfer(0x00); // RESERVADO
